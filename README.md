@@ -29,7 +29,7 @@ It connects to the **Groq API (LLaMA-3.1)** for AI-powered responses.
 
 ### 1️⃣ Clone the repository
 \`\`\`bash
-git clone https://github.com/your-username/flask-groq-chatbot.git
+git clone https://github.com/jyothi-k05/Basic_chatbot.git
 cd flask-groq-chatbot
 \`\`\`
 
